@@ -11,7 +11,7 @@ C443BSY3016 | M184BSY1384 | C390BSY4165 | M184BSY1409 | A184BSX2650
 Muhammad Rizki Maulana | Panji Wirya Pastika | Aldowad Alles Sandro Hamonangan Simanjuntak | Muhammad Hafizh Trinelzy | Clara Fadhila Ramda
 
 #### 🫂 Others Member	: 
-- (ML) M010BSY1848  – Muhammad Aditya Kurniawan – Universitas
+- (ML) M010BSY1848  – Muhammad Aditya Kurniawan –
 - (MD) A200BSX2922  – Qory Wiljanova – Universitas Diponegoro
 ---
 ### 📱Login-Page : UI Design 
