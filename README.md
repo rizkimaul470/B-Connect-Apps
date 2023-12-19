@@ -12,7 +12,7 @@ Muhammad Rizki Maulana | Panji Wirya Pastika | Aldowad Alles Sandro Hamonangan S
 
 #### 🫂 Others Member	: 
 - (ML) M010BSY1848  – Muhammad Aditya Kurniawan
-- (MD) A200BSX2922  – Qory Wiljanova – Universitas D
+- (MD) A200BSX2922  – Qory Wiljanova – Univers
 ---
 ### 📱Login-Page : UI Design 
 
